@@ -1,0 +1,207 @@
+/* font family link */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&family=Playfair+Display&family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&family=Playfair+Display&family=Poppins:wght@400;500;700&family=Roboto&display=swap');
+
+/* font family link */
+/* common  */
+body{
+   font-family: 'Poppins', sans-serif;
+   /* font-family: 'Roboto', sans-serif; */
+   font-size: 16px;
+   font-weight: 400;
+   color: #000000;
+}
+/* common */
+/* header start */
+header{
+    background-color: #F0FFF0;
+}
+
+ .menu ul li a:hover{
+   color: #FD511A;
+ }
+ /* header end */
+ /* banner start */
+ .banner{
+    padding-bottom: 65px;
+    background-color: #F0FFF0;
+ }
+ .b_text{}
+ .b_p1{
+   margin-top: 40px;
+    color: #FD511A;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+ }
+ .b_h1{
+    margin: 10px 0 20px;
+    padding: 0 97px 0 0;
+    color: #000000;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+ }
+ .b_h1 span{
+    color: #21B573 ;
+ }
+ .b_p2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+ }
+ 
+ .b_img{}
+ .b_img img{}
+
+ 
+
+
+ /* banner end*/
+ /* feature start */
+ .feature{
+   text-align: center;
+   padding: 0px 0 70px;
+ }
+ .s_feature{
+   margin-top: 40px;
+   padding: 55px 0 50px;
+   background-color:#ddf0e0 ;
+   border-radius: 10px;
+ }
+ .s_feature:hover{
+   background-color: #ffffff;
+   box-shadow: 0px 20px 40px rgb(0, 0, 0 , 0);
+   transition: .33s;
+ }
+ .s_img{
+   margin: 0 auto 20px;
+   width: 60px;
+   height: 75px;
+
+ }
+ .s_img img{}
+ .s_h2{
+   font-size: 24px;
+   font-weight: 500 ;
+   color: #000000;
+   line-height: 36px;
+ }
+ .s_p{
+   line-height: 24px;
+ }
+ /* feature end */
+ /* Online Courses start */
+ .c_padd{
+  padding-bottom: 100px;
+}
+.bg_color{
+ background-color: #ffffff;
+ box-shadow: 0px 10px 40px rgba(0,0,0,0.1);
+ border-radius: 18px;
+}
+ .c_h1{
+   font-size: 36px;
+   font-weight: 700;
+   color: #000000;
+   line-height: 54px;
+ }
+ /* single item*/
+ .c_item{
+
+ }
+ .c_img{
+  padding: 20px 13px;
+ }
+ .c_img img{}
+ .c_h2{
+  padding-left: 15px;
+  color:#413960;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+ }
+ .c_p{
+  padding-left: 15px;
+  color: #585859;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+ }
+ .button{
+  padding-left: 15px;
+ }
+ .bttn{
+  padding: 8px 19px 8px 19px;
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  background-color: #21B573;
+  border-radius: 33px;
+   
+ }
+ .bttn:hover{
+  color: #070707;
+  background-color: bisque;
+  transition: .33s;
+ }
+ .c_footer{
+  padding-left: 0px 15px;
+  margin-top: 35px;
+ }
+ /* single item*/ 
+  /* Online Courses end */
+  /* Testimonial start */
+  .c_title{
+    margin-bottom: 50px;
+  }
+  .t_img img{
+     
+  }
+  .t_text{}
+  .t_p{
+     padding-right: 200px;
+     margin-top: 50px;
+     margin-bottom: 0;
+  }
+  /* Testimonial end */
+  /* footer start */
+  .footer_top{
+    padding: 40px 0 15px;
+    background-color: #282531;
+  }
+  .ft_details{
+    padding-right: 120px;
+  }
+  .ft_details p{
+    color: #ffffff;
+    line-height: 30px;
+  }
+  .ft_links h2{
+    margin-bottom: 8px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+  }
+  .ft_links ul li a{
+    display: block;
+    margin-bottom: 5px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  /* footer */
+  footer{
+    padding: 30px 0;
+    background-color: #282531;
+  }
+  footer p{
+    text-align: center;
+    color: #ffffff;
+  }
+  footer p a{
+    color: #ffffff;
+    text-decoration: none;
+  }
+  /* footer end */
