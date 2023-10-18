@@ -1,2 +1,2 @@
 # e-school
-live link : https://abdullahalraju858.github.io/e-school/
+live link : https://abdullahalraju60.github.io/e-school/
